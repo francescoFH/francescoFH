@@ -2,12 +2,16 @@
   
 ### Hey, I'm Francesco <img src="https://media.giphy.com/media/xThuVYH5hW2Bo0khgY/giphy.gif" width="30">
 
+
+
 I'm a junior full-stack software developer.
+
 
 
 **💻 Currently job hunting 💻**
 
 **🎓 Studied Software Engineering at Makers Academy 🎓**
+
 
 
 ### Technologies
