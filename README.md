@@ -1,13 +1,15 @@
 <div align="center">
   
 ### Hey, I'm Francesco <img src="https://media.giphy.com/media/xThuVYH5hW2Bo0khgY/giphy.gif" width="30">
-<br>
 I'm a junior full-stack software developer.
 <br>
+
 **💻 Currently job hunting 💻**
 
 **🎓 Studied Software Engineering at Makers Academy 🎓**
+
 <br>
+
 ### Technologies
 
 <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
