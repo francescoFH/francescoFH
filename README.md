@@ -1,4 +1,4 @@
-### Hey, I'm Francesco <img src="https://media.giphy.com/media/xThuVYH5hW2Bo0khgY/giphy.gif" width="30">
+### Hey, I'm Francesco <img src="https://www.lisawong1.com/gifs" width="30">
 
 <!--
 **francescoFH/francescoFH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
