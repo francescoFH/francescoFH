@@ -5,7 +5,6 @@ I'm a junior full-stack software developer.
 <br>
 <br>
 **💻 Currently job hunting 💻**
-
 **🎓 Studied Software Engineering at Makers Academy 🎓**
 <br>
 <br>
